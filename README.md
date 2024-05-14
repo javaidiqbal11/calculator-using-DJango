@@ -93,10 +93,4 @@ This project is built with :
 - 🔃 Create a new pull request.
 ## Creadits :
 
-#### Django Calculator was created by Mohammad Burhan
 
-
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
