@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-5b#a=r-eb=lvo4d#m4=hc$+ob-a54la%og!9rcemb6q+86zq62
 DEBUG = False
 
 ALLOWED_HOSTS = ['https://burhancalculator.io/']
-
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
